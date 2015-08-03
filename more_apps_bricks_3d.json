@@ -1,34 +1,40 @@
 {
-  "items": [
-    {
-      "name": "How To Draw Everything",
-      "urlItunes": "https://itunes.apple.com/app/id948768878",
-      "urlImage": "http://1.bp.blogspot.com/-vkdsQZxHWho/VW1fLvzuRqI/AAAAAAAAuJo/yoy2KKEyfUo/s1600/ic_draw.png",
-      "description": "When you were a child, have you ever wished that you were an artist? Is you a fan of anime, picture and cartoon? Have you ever wished that you can draw those favorite actors?"
-    },
-    {
-      "name": "Origami Paper Art",
-      "urlItunes": "https://itunes.apple.com/app/id951371381",
-      "urlImage": "http://2.bp.blogspot.com/-JMztzkENfB4/VW1fMWtC4jI/AAAAAAAAuJ8/GhC7pNUqZno/s1600/ic_origami.png",
-      "description": "Origami (折り紙?, from ori meaning \"folding\", and kami meaning \"paper\" (kami changes to gami due to rendaku) is the art of paper folding, which is often associated with Japanese culture."
-    },
-    {
-      "name": "Guide For Pokedex",
-      "urlItunes": "https://itunes.apple.com/app/id929955668",
-      "urlImage": "http://4.bp.blogspot.com/-4eOGqfbAH6U/VW1fMqHjWhI/AAAAAAAAuJ4/zc36qZRYv7U/s1600/ic_pokemon.png",
-      "description": "Pokedex Guide is one of my favorite apps. I have been loving Pokemon for ages, I even have some cards physically for my owns."
-    },
-    {
-      "name": "Super Heroes 2048",
-      "urlItunes": "https://itunes.apple.com/app/id976173648",
-      "urlImage": "http://3.bp.blogspot.com/-paMXko-NHAo/VW1fLlVsbtI/AAAAAAAAuJs/eBj_X2qup3c/s1600/ic_2048.png",
-      "description": "Sure that you have already known about 2048 game. 2048 is a single-player puzzle game created in March 2014 by 19-year-old Italian web developer Gabriele Cirulli. Ya, I know that's a great game so this is an upgraded version of it, Super Heroes 2048."
-    },
-    {
-      "name": "Animated Knots Art - 3D",
-      "urlItunes": "https://itunes.apple.com/app/id967811250",
-      "urlImage": "http://1.bp.blogspot.com/-Fs6rw-oN7nc/VW1fLoQRmDI/AAAAAAAAuJ0/s_KdbozOdV0/s1600/ic_knots.png",
-      "description": "Nowadays some people are under the mistaken idea that if you can't tie a knot you should just tie a lot. As funny and clever as that sounds it's really not the case."
-    }
-  ]
+    "items": [
+              {
+              "name": "Clay For Kids - 3D",
+              "urlItunes": "https://itunes.apple.com/app/id1023288170",
+              "urlImage": "http://3.bp.blogspot.com/-VPuPqvqGO1A/Vb_s_rMw1ZI/AAAAAAAA-Cs/dEmfNIgMUe4/s1600/ic_clay.png",
+              "description": "Children's developmental applications and learning games is all we do! And of course we could not pass by such useful for kids, fun and exciting employment as modeling in plasticine or clay."
+              },
+              {
+              "name": "How To Draw Everything",
+              "urlItunes": "https://itunes.apple.com/app/id948768878",
+              "urlImage": "http://1.bp.blogspot.com/-vkdsQZxHWho/VW1fLvzuRqI/AAAAAAAAuJo/yoy2KKEyfUo/s1600/ic_draw.png",
+              "description": "When you were a child, have you ever wished that you were an artist? Is you a fan of anime, picture and cartoon? Have you ever wished that you can draw those favorite actors?"
+              },
+              {
+              "name": "Origami Paper Art",
+              "urlItunes": "https://itunes.apple.com/app/id951371381",
+              "urlImage": "http://2.bp.blogspot.com/-JMztzkENfB4/VW1fMWtC4jI/AAAAAAAAuJ8/GhC7pNUqZno/s1600/ic_origami.png",
+              "description": "Origami (折り紙?, from ori meaning \"folding\", and kami meaning \"paper\" (kami changes to gami due to rendaku) is the art of paper folding, which is often associated with Japanese culture."
+              },
+              {
+              "name": "Guide For Pokedex",
+              "urlItunes": "https://itunes.apple.com/app/id929955668",
+              "urlImage": "http://4.bp.blogspot.com/-4eOGqfbAH6U/VW1fMqHjWhI/AAAAAAAAuJ4/zc36qZRYv7U/s1600/ic_pokemon.png",
+              "description": "Pokedex Guide is one of my favorite apps. I have been loving Pokemon for ages, I even have some cards physically for my owns."
+              },
+              {
+              "name": "Super Heroes 2048",
+              "urlItunes": "https://itunes.apple.com/app/id976173648",
+              "urlImage": "http://3.bp.blogspot.com/-paMXko-NHAo/VW1fLlVsbtI/AAAAAAAAuJs/eBj_X2qup3c/s1600/ic_2048.png",
+              "description": "Sure that you have already known about 2048 game. 2048 is a single-player puzzle game created in March 2014 by 19-year-old Italian web developer Gabriele Cirulli. Ya, I know that's a great game so this is an upgraded version of it, Super Heroes 2048."
+              },
+              {
+              "name": "Animated Knots Art - 3D",
+              "urlItunes": "https://itunes.apple.com/app/id967811250",
+              "urlImage": "http://1.bp.blogspot.com/-Fs6rw-oN7nc/VW1fLoQRmDI/AAAAAAAAuJ0/s_KdbozOdV0/s1600/ic_knots.png",
+              "description": "Nowadays some people are under the mistaken idea that if you can't tie a knot you should just tie a lot. As funny and clever as that sounds it's really not the case."
+              }
+              ]
 }
