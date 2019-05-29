@@ -1,53 +1,5 @@
 {
     "items": [{
-              "name": "How to Draw Panda Kung Fu",
-              "urlItunes": "https://itunes.apple.com/app/id1108814033",
-              "urlImage": "https://storage.googleapis.com/orgit-prod-bucket/6000334795177984/icon_app/ic_draw_orange.png",
-              "description": "When you were a child, have you ever wished that you were an artist?"
-              },
-              {
-              "name": "How to draw Butterflies",
-              "urlItunes": "https://itunes.apple.com/app/id1104113426",
-              "urlImage": "https://storage.googleapis.com/orgit-prod-bucket/6000334795177984/icon_app/ic_draw_violet.png",
-              "description": "When you were a child, have you ever wished that you were an artist?"
-              },
-              {
-              "name": "How to draw Cartoon Cars",
-              "urlItunes": "https://itunes.apple.com/app/id1101581852",
-              "urlImage": "https://storage.googleapis.com/orgit-prod-bucket/6000334795177984/icon_app/ic_draw_green.png",
-              "description": "When you were a child, have you ever wished that you were an artist?"
-              },
-              {
-              "name": "How to draw Hairdo and Hairstyle",
-              "urlItunes": "https://itunes.apple.com/app/id1092782722",
-              "urlImage": "https://storage.googleapis.com/orgit-prod-bucket/6000334795177984/icon_app/ic_draw_blue.png",
-              "description": "When you were a child, have you ever wished that you were an artist?"
-              },
-              {
-              "name": "How to draw Face Masks",
-              "urlItunes": "https://itunes.apple.com/app/id1102003828",
-              "urlImage": "https://storage.googleapis.com/orgit-prod-bucket/6000334795177984/icon_app/ic_draw_red.png",
-              "description": "When you were a child, have you ever wished that you were an artist?"
-              },
-              {
-              "name": "How to draw Smilies",
-              "urlItunes": "https://itunes.apple.com/app/id1103655343",
-              "urlImage": "https://storage.googleapis.com/orgit-prod-bucket/6000334795177984/icon_app/ic_draw_yellow.png",
-              "description": "When you were a child, have you ever wished that you were an artist?"
-              },
-              {
-              "name": "How to draw Eyes",
-              "urlItunes": "https://itunes.apple.com/app/id1093411210",
-              "urlImage": "https://storage.googleapis.com/orgit-prod-bucket/6000334795177984/icon_app/ic_draw_pink.png",
-              "description": "When you were a child, have you ever wished that you were an artist?"
-              },
-              {
-              "name": "Music SoundCloud - Unlimited Free MP3",
-              "urlItunes": "https://itunes.apple.com/app/id1056732876",
-              "urlImage": "http://2.bp.blogspot.com/-IO0fnjD9yH4/VkZz5AjnCeI/AAAAAAAA-Dk/LDgcwmzWKQ0/s1600/ic_music.png",
-              "description": "Music S/C gives you the freedom to play and listen to thousands of songs with no limits! Search, Listen, and Stream thousands of sounds and artists. Concerts, Remixes, and Covers are available through the extensive catalog."
-              },
-              {
               "name": "Clay For Kids - 3D",
               "urlItunes": "https://itunes.apple.com/app/id1023288170",
               "urlImage": "http://3.bp.blogspot.com/-VPuPqvqGO1A/Vb_s_rMw1ZI/AAAAAAAA-Cs/dEmfNIgMUe4/s1600/ic_clay.png",
@@ -64,14 +16,7 @@
               "urlItunes": "https://itunes.apple.com/app/id1001195289",
               "urlImage": "http://4.bp.blogspot.com/-V8QWQUcMWZI/VYfA9YOS35I/AAAAAAAA4Ww/Q8hxJGBSXWs/s1600/ic_bricks.png",
               "description": "You love LEGO®, I am too. I love LEGO® and is passionate about helping everyone quickly and easily find the instructions to their lost LEGO® sets. Whether you have come here just to browse our LEGO® instruction database for the sets you had in years gone by, or if the dog ate the instructions to the set you bought last week, this Animated Bricks 3D app is here to help."
-              },
-              {
-              "name": "Guide For Pokedex",
-              "urlItunes": "https://itunes.apple.com/app/id929955668",
-              "urlImage": "http://4.bp.blogspot.com/-4eOGqfbAH6U/VW1fMqHjWhI/AAAAAAAAuJ4/zc36qZRYv7U/s1600/ic_pokemon.png",
-              "description": "Pokedex Guide is one of my favorite apps. I have been loving Pokemon for ages, I even have some cards physically for my owns."
-              },
-              {
+              },{
               "name": "Super Heroes 2048",
               "urlItunes": "https://itunes.apple.com/app/id976173648",
               "urlImage": "http://3.bp.blogspot.com/-paMXko-NHAo/VW1fLlVsbtI/AAAAAAAAuJs/eBj_X2qup3c/s1600/ic_2048.png",
